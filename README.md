@@ -8,3 +8,4 @@ Contains build documentation, labelled: BuildDocumentation.pdf
 Also cotains run documentation
 shh
 
+test
